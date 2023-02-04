@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab07", "Lab07\Lab07.csproj", "{D942D7CE-5F69-4BA9-9BB5-F7BA4F51B4AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThemeControl", "ThemeControl\ThemeControl.csproj", "{C5F36A48-B1D5-497F-A2C3-FDE99F332A56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D942D7CE-5F69-4BA9-9BB5-F7BA4F51B4AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D942D7CE-5F69-4BA9-9BB5-F7BA4F51B4AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D942D7CE-5F69-4BA9-9BB5-F7BA4F51B4AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D942D7CE-5F69-4BA9-9BB5-F7BA4F51B4AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5F36A48-B1D5-497F-A2C3-FDE99F332A56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5F36A48-B1D5-497F-A2C3-FDE99F332A56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5F36A48-B1D5-497F-A2C3-FDE99F332A56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5F36A48-B1D5-497F-A2C3-FDE99F332A56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E009648-5E3D-4D0C-BFAF-44532DAB89D2}
+	EndGlobalSection
+EndGlobal
